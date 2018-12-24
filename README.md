@@ -1,7 +1,7 @@
-# BlogCode
-Yet Another Pointless Tech Blog Article Code Repository
 
-This is the github repository for the Yet Another Pointless Tech Blog site.
+# Raspberry Pi Helix
 
-http://yetanotherpointlesstechblog.blogspot.com
+Keyboard firmware for Helix using Raspberry Pi.
+
+Original source code is [yaptb/BlogCode: Yet Another Pointless Tech Blog Article Code](https://github.com/yaptb/BlogCode).
 
